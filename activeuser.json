@@ -1,0 +1,16 @@
+[
+    {
+        "device_id": "all time active",
+        "username": "user",
+        "password": "pass",
+        "expirydate": "31-12-2030",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "Sabbir",
+        "username": "Sabbir",
+        "password": "Sabbir",
+        "expirydate": "01-02-2025",
+        "Allowoffline": false
+    }
+]
